@@ -1,4 +1,4 @@
-# SPSGP-90643-Virtual-Internship---Android-Application-Development-Using-Kotlin
+# SPSGP-90643-Virtual-Internship---Android-App-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
 # Project Name -> "GROCERY APP"
 
