@@ -1,5 +1,11 @@
 # SPSGP-90643-Virtual-Internship---Android-App-Kotlin
 Virtual Internship - Android Application Development Using Kotlin
+
+# Name
+Kartikey Yadav
+
+# Application ID -> SPS_APL_20220100780
+
 # Project Name -> "GROCERY APP"
 
 Using this android application user can make a list of items with their Price & Quantity, also can remove them easily.
