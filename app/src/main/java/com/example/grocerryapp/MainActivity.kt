@@ -41,10 +41,6 @@ class MainActivity : AppCompatActivity() , GroceryRVAdapter.GroceryItemClickInte
         addFAB.setOnClickListener{
             openDialog()
         }
-
-
-
-
     }
     fun openDialog(){
         val dialog = Dialog(this)
